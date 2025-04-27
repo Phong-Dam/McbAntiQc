@@ -118,6 +118,9 @@ namespace Game {
 		CopyMemory((LPVOID)dwBaseAddress, szData, iSize);
 		VirtualProtect((LPVOID)dwBaseAddress, iSize, dwOldProtection, NULL);
 	}
+    uint8_t readByteFromAddress(uintptr_t address) {
+        return *reinterpret_cast<volatile const uint8_t*>(address);
+    }
     const char* GetKeyName(WPARAM vkCode) {
         static char buffer[32];
 

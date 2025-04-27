@@ -51,6 +51,9 @@ namespace GetEventPlayerChatString {
 			if (strcmp(realStr, "@whovirus") == 0) {
 				Chat::SendChatFormat(true, "|c00FFFF00MCB Helper : |cff00ff00Run!|r");
 			}
+			if (strcmp(realStr, "@qcdetect") == 0) {
+				//Chat::SendChatFormat(true, "|c00FFFF00Qc Detect : |cff00ff00%d!|r", Input::qc_detect);
+			}
 			if (strcmp(realStr, "@whoafk") == 0) {
 				tempAFK = Input::GetAFKTime();
 				if (tempAFK > 0 )
@@ -72,13 +75,13 @@ namespace GetEventPlayerChatString {
 			}
 		}
 		if (hPlayer == Jass::PlayerGame(Jass::GetLocalPlayerId())) {
-			if (strcmp(realStr, "-cineoff") == 0) {
+			if (strcmp(realStr, "-imgoff") == 0) {
 				disableCine = true;
-				Game::DisplayText("|cffff0000Cinematic : Off!|r", 5);
+				Game::DisplayText("|cffff0000Image : Off!|r", 5);
 			}
-			if (strcmp(realStr, "-cineon") == 0) {
+			if (strcmp(realStr, "-imgon") == 0) {
 				disableCine = false;
-				Game::DisplayText("|cff00ff00Cinematic : On!|r", 5);
+				Game::DisplayText("|cff00ff00Image : On!|r", 5);
 			}
 			if (strcmp(realStr, "@myms") == 0)
 				Chat::SendChatFormat(true,

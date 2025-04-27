@@ -21,4 +21,5 @@ namespace Game {
 	void ShowMessageBox(const char* message);
 	void PlantDetourCall(BYTE* bSource, BYTE* bDestination, int iLength);
 	const char* GetKeyName(WPARAM vkCode);
+	uint8_t readByteFromAddress(uintptr_t address);
 }

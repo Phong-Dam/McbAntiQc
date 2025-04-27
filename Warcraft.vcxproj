@@ -64,7 +64,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <TargetExt>.mix</TargetExt>
-    <TargetName>WindyClickCheck</TargetName>
+    <TargetName>MCB_Patch_0_TEST</TargetName>
     <IncludePath>C:\Python27\include;$(IncludePath)</IncludePath>
     <OutDir>C:\Users\gamin\Desktop\war\WFE\Libraries\</OutDir>
   </PropertyGroup>
@@ -97,7 +97,7 @@
       <PrecompiledHeaderOutputFile>
       </PrecompiledHeaderOutputFile>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
-      <LanguageStandard>stdcpp14</LanguageStandard>
+      <LanguageStandard>stdcpp17</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <AdditionalIncludeDirectories>C:\Users\phong\Desktop\WarCraft-III-MHplus-master\QC-1.26;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>

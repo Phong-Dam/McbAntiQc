@@ -1,0 +1,69 @@
+﻿  Input.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:             _Ty=unsigned long
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65): warning C4244:         ]
+  (compiling source file 'Input.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(156,65):
+      the template instantiation context (the oldest one first) is
+          C:\Users\gamin\Documents\Github\WindyAntiQc\Input.cpp(108,26):
+          see reference to function template instantiation 'std::optional<unsigned long> &std::optional<unsigned long>::operator =<__int64,0>(_Ty2 &&) noexcept' being compiled
+          with
+          [
+              _Ty2=__int64
+          ]
+              C:\Users\gamin\Documents\Github\WindyAntiQc\Input.cpp(108,26):
+              see the first reference to 'std::optional<unsigned long>::operator =' in 'Input::Input'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(294,15):
+          see reference to function template instantiation 'void std::_Optional_construct_base<_Ty>::_Assign<__int64>(_Ty2 &&) noexcept' being compiled
+          with
+          [
+              _Ty=unsigned long,
+              _Ty2=__int64
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:             _Ty=unsigned long
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61): warning C4244:         ]
+  (compiling source file 'Input.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(406,61):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(294,15):
+          see reference to function template instantiation 'void std::_Optional_construct_base<_Ty>::_Assign<__int64>(_Ty2 &&) noexcept' being compiled
+          with
+          [
+              _Ty=unsigned long,
+              _Ty2=__int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(158,13):
+          see reference to function template instantiation '_Ty &std::_Optional_construct_base<_Ty>::_Construct<__int64>(__int64 &&) noexcept' being compiled
+          with
+          [
+              _Ty=unsigned long
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\optional(146,14):
+          see reference to function template instantiation 'void std::_Construct_in_place<unsigned long,_Ty>(unsigned long &,_Ty &&) noexcept' being compiled
+          with
+          [
+              _Ty=__int64
+          ]
+  
+  Generating code
+  1 of 274 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Warcraft.vcxproj -> C:\Users\gamin\Desktop\war\WFE\Libraries\MCB_Patch_0_TEST.mix
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

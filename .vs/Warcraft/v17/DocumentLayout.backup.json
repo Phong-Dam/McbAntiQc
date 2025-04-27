@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Jass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:GetEventPlayerChatString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:GetEventPlayerChatString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:GetEventPlayerChatString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Jass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Jass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Init.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Init.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Jass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{112DED83-BDA4-4353-A0C5-44D2A8109A61}|Warcraft.vcxproj|solutionrelative:includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,71 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetEventPlayerChatString.h",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.h",
-              "RelativeDocumentMoniker": "GetEventPlayerChatString.h",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.h",
-              "RelativeToolTip": "GetEventPlayerChatString.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T09:40:33.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "GetEventPlayerChatString.cpp",
               "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.cpp",
               "RelativeDocumentMoniker": "GetEventPlayerChatString.cpp",
               "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.cpp",
               "RelativeToolTip": "GetEventPlayerChatString.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T09:40:12.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Input.cpp",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.cpp",
-              "RelativeDocumentMoniker": "Input.cpp",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.cpp",
-              "RelativeToolTip": "Input.cpp",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAmwDEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T08:42:37.443Z"
+              "WhenOpened": "2025-03-08T09:40:12.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Init.cpp",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.cpp",
-              "RelativeDocumentMoniker": "Init.cpp",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.cpp",
-              "RelativeToolTip": "Init.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T08:18:12.383Z"
+              "WhenOpened": "2025-03-07T21:56:07.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "includes.h",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\includes.h",
-              "RelativeDocumentMoniker": "includes.h",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\includes.h",
-              "RelativeToolTip": "includes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T08:17:09.146Z"
+              "Title": "Jass.cpp",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.cpp",
+              "RelativeDocumentMoniker": "Jass.cpp",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.cpp",
+              "RelativeToolTip": "Jass.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T09:10:16.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Chat.cpp",
               "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Chat.cpp",
               "RelativeDocumentMoniker": "Chat.cpp",
@@ -138,11 +117,103 @@
               "RelativeToolTip": "Chat.cpp",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T08:32:49.658Z"
+              "WhenOpened": "2025-03-08T08:32:49.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAOUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:16:01.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetEventPlayerChatString.h",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.h",
+              "RelativeDocumentMoniker": "GetEventPlayerChatString.h",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\GetEventPlayerChatString.h",
+              "RelativeToolTip": "GetEventPlayerChatString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T09:40:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.cpp",
+              "RelativeDocumentMoniker": "Input.cpp",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.cpp",
+              "RelativeToolTip": "Input.cpp",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAMAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:42:37.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Init.cpp",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.cpp",
+              "RelativeDocumentMoniker": "Init.cpp",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.cpp",
+              "RelativeToolTip": "Init.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:18:12.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Jass.h",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.h",
+              "RelativeDocumentMoniker": "Jass.h",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.h",
+              "RelativeToolTip": "Jass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T09:11:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Init.h",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.h",
+              "RelativeDocumentMoniker": "Init.h",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.h",
+              "RelativeToolTip": "Init.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:18:12.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:15:54.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Chat.h",
               "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Chat.h",
               "RelativeDocumentMoniker": "Chat.h",
@@ -150,96 +221,38 @@
               "RelativeToolTip": "Chat.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T08:32:54.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.h",
-              "RelativeDocumentMoniker": "Game.h",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.h",
-              "RelativeToolTip": "Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T08:15:54.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Jass.cpp",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.cpp",
-              "RelativeDocumentMoniker": "Jass.cpp",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.cpp",
-              "RelativeToolTip": "Jass.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAF0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T09:10:16.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-07T21:56:07.395Z",
+              "WhenOpened": "2025-03-08T08:32:54.111Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Init.h",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.h",
-              "RelativeDocumentMoniker": "Init.h",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Init.h",
-              "RelativeToolTip": "Init.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T08:18:12.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Input.h",
               "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.h",
               "RelativeDocumentMoniker": "Input.h",
               "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Input.h",
               "RelativeToolTip": "Input.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T08:42:42.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Jass.h",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.h",
-              "RelativeDocumentMoniker": "Jass.h",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Jass.h",
-              "RelativeToolTip": "Jass.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-08T09:11:56.272Z"
+              "WhenOpened": "2025-03-08T08:42:42.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.cpp",
-              "RelativeDocumentMoniker": "Game.cpp",
-              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\Game.cpp",
-              "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAmwHgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T08:16:01.556Z"
+              "Title": "includes.h",
+              "DocumentMoniker": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\includes.h",
+              "RelativeDocumentMoniker": "includes.h",
+              "ToolTip": "C:\\Users\\gamin\\Documents\\Github\\WindyAntiQc\\includes.h",
+              "RelativeToolTip": "includes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:17:09.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
